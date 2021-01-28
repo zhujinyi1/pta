@@ -1,4 +1,5 @@
-//查找指定字符#include<stdio.h>
+//查找指定字符
+#include<stdio.h>
 #include<math.h>
 int main()
 {
