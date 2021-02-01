@@ -1,4 +1,4 @@
-/*²ÂÊı×Ö*/
+/*çŒœæ•°å­—*/
 #include<stdio.h>
 #include<math.h>
 int main()

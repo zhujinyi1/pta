@@ -1,4 +1,4 @@
-//计算标准体重
+//璁＄畻鏍囧噯浣撻噸
 #include<stdio.h>
 int main()
 {
